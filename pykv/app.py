@@ -1,3 +1,4 @@
+// application side code for the PyKV backend server
 from fastapi import FastAPI
 from pykv.features.store.kv_store import PyKVStore
 
