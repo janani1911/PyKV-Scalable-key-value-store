@@ -1,3 +1,4 @@
+// client side code for interacting with the PyKV backend server
 import requests
 
 BASE_URL = "http://127.0.0.1:8000"
